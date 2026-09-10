@@ -27,16 +27,16 @@ streamlit run dashboard/app.py
 ## Dashboard Preview
 
 ### Executive Overview
-![Executive Overview](reports/screenshots/01_executive_overview.pdf)
+![Executive Overview](reports/screenshots/ss1.pdf)
 
 ### Sales & Products
-![Sales & Products](reports/screenshots/02_sales_products.pdf)
+![Sales & Products](reports/screenshots/ss2.pdf)
 
 ### Customer Analytics
-![Customer Analytics](reports/screenshots/03_customer_analytics.pdf)
+![Customer Analytics](reports/screenshots/ss3.pdf)
 
 ### Operations & Experience
-![Operations & Experience](reports/screenshots/04_operations_experience.pdf)
+![Operations & Experience](reports/screenshots/ss3.pdf)
 
 ## Tech Stack
 
