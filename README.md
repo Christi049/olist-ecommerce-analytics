@@ -24,6 +24,20 @@ streamlit run dashboard/app.py
 
 ---
 
+## Dashboard Preview
+
+### Executive Overview
+![Executive Overview](reports/screenshots/01_executive_overview.pdf)
+
+### Sales & Products
+![Sales & Products](reports/screenshots/02_sales_products.pdf)
+
+### Customer Analytics
+![Customer Analytics](reports/screenshots/03_customer_analytics.pdf)
+
+### Operations & Experience
+![Operations & Experience](reports/screenshots/04_operations_experience.pdf)
+
 ## Tech Stack
 
 - **Python** (pandas, numpy, scipy) — data cleaning, EDA, statistical testing
