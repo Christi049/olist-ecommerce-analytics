@@ -2,7 +2,7 @@
 
 End-to-end analysis of ~99,000 orders from Olist, a Brazilian e-commerce marketplace (Sept 2016 – Aug 2018). This project goes from raw data acquisition through cleaning, a relational MySQL data model, business-focused SQL analysis, statistical validation in Python, and an interactive Streamlit dashboard — answering concrete business questions about revenue, customer value, delivery performance, and what drives customer satisfaction.
 
-**[Read the full findings and recommendations →](reports/business_insights.md)**
+**[Read the full findings and recommendations](reports/Business_insights.md)**
 
 ---
 
@@ -10,7 +10,7 @@ End-to-end analysis of ~99,000 orders from Olist, a Brazilian e-commerce marketp
 
 Orders delivered late average a **2.27/5** review score vs. **4.29/5** for on-time orders (Welch's t-test: t = -100.76, p < 0.001, n = 95,607). Delivery reliability is the strongest driver of customer satisfaction in this dataset — stronger than product category, price, or region alone. Two distinct, separable root causes were identified: a specific São Paulo → Rio de Janeiro shipping corridor problem, and a tail of chronically underperforming individual sellers cutting across regions.
 
-Full writeup with supporting evidence, customer segmentation, and ranked recommendations: [`reports/business_insights.md`](reports/business_insights.md)
+Full writeup with supporting evidence, customer segmentation, and ranked recommendations: [`reports/business_insights.md`](reports/Business_insights.md)
 
 ---
 
@@ -113,4 +113,4 @@ streamlit run dashboard/app.py
 - **Operations**: Where are delivery delays concentrated — geographically, by category, by seller?
 - **Experience**: Does delivery performance affect review scores, and can we prove it statistically?
 
-See [`reports/business_insights.md`](reports/business_insights.md) for the full answers, methodology notes, and an honest accounting of what this dataset *cannot* answer.
+See [`reports/business_insights.md`](reports/Business_insights.md) for the full answers, methodology notes, and an honest accounting of what this dataset *cannot* answer.
