@@ -1,6 +1,6 @@
 # Olist E-Commerce Sales, Customer & Operations Analytics
 
-End-to-end analysis of ~99,000 orders from Olist, a Brazilian e-commerce marketplace (Sept 2016 – Aug 2018). This project goes from raw data acquisition through cleaning, a relational MySQL data model, business-focused SQL analysis, statistical validation in Python, and an interactive Streamlit dashboard — answering concrete business questions about revenue, customer value, delivery performance, and what drives customer satisfaction.
+End-to-end analysis of ~99,000 orders from Olist, a Brazilian e-commerce marketplace (Sept 2016 – Aug 2018). This project goes from raw data acquisition through cleaning, a relational MySQL data model, business-focused SQL analysis and statistical validation in Python answering concrete business questions about revenue, customer value, delivery performance, and what drives customer satisfaction.
 
 **[Read the full findings and recommendations](reports/Business_insights.md)**
 
